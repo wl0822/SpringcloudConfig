@@ -1,3 +1,4 @@
+foo: foo version 1
 hystrix: 
   command: 
     default: 
